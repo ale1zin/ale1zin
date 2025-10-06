@@ -1,16 +1,12 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil =)
 
-<!--
-**ale1zin/ale1zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ Atualmente faço estágio usando Kotlin
+- 📚 Estudando back-end e microcontroladores
+- 🎓 Técnico em Eletrônica (IFSUL Câmpus Pelotas)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<!-- Estatísticas do GitHub -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ale1zin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale1zin&layout=compact&langs_count=7&theme=radical"/>
+</div>
