@@ -7,9 +7,9 @@
 <div align="center">
 <!-- Temas Bacanas: 'dark' e 'github_dark'-->
 <!-- Estatísticas do GitHub -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ale1zin&rank_icon=github&show_icons=true&theme=github_dark"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ale1zin&rank_icon=github&show_icons=true&theme=tokyonight"/>
 <!-- Linguagens mais usadas -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale1zin&layout=compact&langs_count=7&theme=github_dark&cache_seconds=10"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ale1zin&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=10"/>
 </div>
 
   ##
