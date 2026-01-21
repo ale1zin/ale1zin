@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil =)
 
 - 🛠️ Atualmente estagiando (usando Kotlin)
-- 📚 Estudando back-end e microcontroladores
+- 📚 Estudando back-end (Java) e microcontroladores
 - 🎓 Técnico em Eletrônica (IFSUL Câmpus Pelotas)
 
 <div align="center">
